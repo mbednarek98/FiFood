@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Nastepny</string>
+    <string name="image_description">obrazek</string>
+    <string name="let_s_get_started_label">Zacznijmy</string>
+    <string name="settings">Ustawienia</string>
+    <string name="start_description_label">Pozostań fit planując swoją dietę i ćwiczenia w aplikacji FiFood</string>
+    <string name="sign_in">Zaloguj się</string>
+    <string name="sign_up">Zarejestruj się</string>
+    <string name="your_metrics">Twoja Metryka</string>
+    <string name="height">Wysokość</string>
+    <string name="fill_the_information_label">Proszę wypełnić poniższe informacje</string>
+    <string name="gender">Płeć</string>
+    <string name="last_details">Ostatnie szczegóły</string>
+    <string name="we_need_them_to_calculate_your_bmi">Potrzebujemy ich do obliczenia Twojego BMI</string>
+    <string name="meals">Posiłki</string>
+    <string name="activities">Aktywność</string>
+    <string name="finish">Zakończ</string>
+    <string name="password">Hasło</string>
+    <string name="type_your_password_again">Wpisz ponownie swoje hasło</string>
+    <string name="type_your_password">Wpisz swoje hasło</string>
+    <string name="retype_password">Powtórz hasło</string>
+    <string name="welcome">Witaj!</string>
+    <string name="welcome_new_acc">Nowe Konto</string>
+    <string name="welcome_desc_sign_in">Zaloguj się i rozpocznij swoją aktywność.</string>
+    <string name="welcome_desc_sign_up">Zarejestruj się i rozpocznij swoją aktywność</string>
+    <string name="error_email_empty">Proszę wypełnij pole email!</string>
+    <string name="error_pass_8_char">Hasło musi zawierać co najmniej 8 znaków!</string>
+    <string name="error_pass_not_equal">Hasła nie są takie same!</string>
+    <string name="error_field_empty">Pole %1$s jest puste!</string>
+    <string name="error_overall">Pozostawiłeś %1$s pole puste lub poza %2$d-%3$d zakresem wiekowym!</string>
+    <string name="error_height_weight_overall">Pole Wzrost i Waga jest puste lub poza zakresem!</string>
+    <string name="title_home">Strona tytułowa</string>
+    <string name="title_dashboard">Kokpit</string>
+    <string name="title_notifications">Powiadomienia</string>
+    <string name="please_wait">Prosze zaczekać</string>
+    <string name="forgot_password">Zapomniałem hasła</string>
+    <string name="sign_out">Wyloguj się</string>
+    <string name="kcal_to_go">kcal zostało</string>
+    <string name="eaten">Zjedzone</string>
+    <string name="burned">Spalone</string>
+    <string name="carbs">Węglowodany</string>
+    <string name="protein">Białko</string>
+    <string name="fat">Tłuszcze</string>
+    <string name="weight">Waga</string>
+    <string name="updated_day_time">Zaktualizowano %1$s %2$s</string>
+    <string name="example_updated_day_time">Zaktualizowano Dzis 21:20</string>
+    <string name="age">Wiek</string>
+    <string name="dishes">Dania</string>
+    <string name="number_of_dishes">Liczba dań</string>
+    <string name="of_daily_goal">dziennego celu</string>
+    <string name="weight_change">Zmiana Wagi</string>
+    <string name="change_activity">Zmiana Aktywności</string>
+    <string name="change_progress">Zmiana Postępu Wagowego</string>
+    <string name="how_many_meals_a_day">Ile posiłków w ciągu dnia?</string>
+    <string name="g_left">%1$s g jeszcze</string>
+    <string name="today_day">Dziś</string>
+    <string name="yesterday_day">Wczoraj</string>
+    <string name="change_data">Dodaj nowe %1$s</string>
+    <string name="add_exercise">Dodaj Ćwiczenie</string>
+    <string name="done">Zatwierdź</string>
+    <string name="cancel">Anuluj</string>
+    <string name="alert">Uwaga</string>
+    <string name="alert_exercise_desc">Czy chcesz usunąć to Ćwiczenie?</string>
+    <string name="alert_dish_desc">Czy chcesz usunąć to Danie?</string>
+    <string name="kcal_eaten_burned">Kcal zjedzone/spalone</string>
+    <string name="workout">Trening</string>
+    <string name="diet">Dieta</string>
+    <string name="type">Typ</string>
+    <string name="time">Czas(minuty:sekundy)</string>
+    <string name="new_water">Nowa Ilość Wody</string>
+    <string name="add_food_sc">Dodaj Jedzenie</string>
+    <string name="recommended_kcal">Zalecane: \n%1$s kcal</string>
+    <string name="new_dish">Nowe Danie</string>
+    <string name="name">Nazwa</string>
+    <string name="type_of_diet">Typ Diety</string>
+    <string name="type_of_meal">Typ Posiłku</string>
+    <string name="type_of_units">Typ Miary</string>
+    <string name="delete">Usuń</string>
+    <string name="weight_data">Waga (%1$s)</string>
+    <string name="activity">Aktywność</string>
+    <string name="weight_progress">Postęp Wagowy</string>
+    <string name="meal_count">Ilość Posiłków</string>
+    <string name="meal_type">Typ Posiłków</string>
+    <string name="change_age">Zmiana Wieku</string>
+    <string name="change_gender">Zmiana Płci</string>
+    <string name="change_height">Zmiana Wysokości</string>
+    <string name="change_dish">Zmiana Ilości Posiłków</string>
+    <string name="change_type">Zmiana Typu Posiłków</string>
+    <string name="auto_assign">Auto Dieta</string>
+    <string name="accessibility">Dostępność produktów do potraw</string>
+    <string name="easiness">Łatwość przygotowania potraw</string>
+    <string-array name="accessibility_array">
+        <item>Łatwo Dostępne Produkty</item>
+        <item>Umiarkowanie Dostępne Produkty</item>
+        <item>Trudno Dostępne Produkty</item>
+    </string-array>
+    <string-array name="accessibility_desc_array">
+        <item>Podstawowe produkty dostępne we wszystkich sklepach</item>
+        <item>Egzotyczne produkty dostępne w większości sklepów</item>
+        <item>Egzotyczne produkty, które nie są powszechnie dostępne w sklepach</item>
+    </string-array>
+    <string-array name="easiness_array">
+        <item>Trywialny</item>
+        <item>Łatwy</item>
+        <item>Średni</item>
+        <item>Trudny</item>
+        <item>Bardzo Trudny</item>
+    </string-array>
+    <string-array name="settings_titles">
+        <item>Dane użytkownika</item>
+        <item>Aktywność</item>
+        <item>Posiłki</item>
+    </string-array>
+    <string-array name="food_units">
+        <item>100 g</item>
+        <item>100 ml</item>
+        <item>1 porcje</item>
+    </string-array>
+    <string-array name="food_only_units">
+        <item>g</item>
+        <item>ml</item>
+        <item>porcje</item>
+    </string-array>
+    <string-array name="food_type_of_diet">
+        <item>Wszystko</item>
+        <item>Wegetariańskie</item>
+        <item>Wegańskie</item>
+    </string-array>
+    <string-array name="food_titles">
+        <item>Znajdź</item>
+        <item>Moje Jedzenie</item>
+    </string-array>
+    <string-array name="dishes_name_array">
+        <item>Śniadanie</item>
+        <item>Lunch</item>
+        <item>Obiad</item>
+        <item>Przekąska</item>
+        <item>Kolacja</item>
+    </string-array>
+
+    <string-array name="exercise_group_array">
+        <item>Inne</item>
+        <item>Łucznictwo</item>
+        <item>Ergometr Ramieniowy</item>
+        <item>Badminton</item>
+        <item>Base Jumping</item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Siatkówka Plażowa</item>
+        <item>Jazda Na Rowerze</item>
+        <item>Bilard</item>
+        <item>Kręgle</item>
+        <item>Boks</item>
+        <item>Broomball</item>
+        <item>Skok na bungee</item>
+        <item>Kalistenika</item>
+        <item>Kajakarstwo</item>
+        <item>Trening obwodowy</item>
+        <item>Wspinaczka Na Wzniesienia</item>
+        <item>Wspinaczka Po Drabinie</item>
+        <item>Krykiet</item>
+        <item>Krokiet</item>
+        <item>Curling</item>
+        <item>Rzutki</item>
+        <item>Psi zaprzęg</item>
+        <item>Orbitrek</item>
+        <item>Szermierka</item>
+        <item>Football</item>
+        <item>Frisbee</item>
+        <item>Golf</item>
+        <item>Gimnastyka</item>
+        <item>Zośka</item>
+        <item>Piłka ręczna</item>
+        <item>Szybownictwo</item>
+        <item>Klub Zdrowia Ćwiczenia</item>
+        <item>Linowy Tor Przeszkód</item>
+        <item>Hiking</item>
+        <item>Hokej</item>
+        <item>Ćwiczenie Domowe</item>
+        <item>Jazda Konna</item>
+        <item>Rzut Podkową</item>
+        <item>Jet Skiing</item>
+        <item>Jogging</item>
+        <item>Żonglerka</item>
+        <item>Kickball</item>
+        <item>Lacrosse</item>
+        <item>Marsz</item>
+        <item>Sztuki walki</item>
+        <item>Wspinaczka Górska</item>
+        <item>Nordic Walking</item>
+        <item>Biegi Na Orientację</item>
+        <item>Paddle Boarding</item>
+        <item>Łódź wiosłowa</item>
+        <item>Paddleball</item>
+        <item>Pilates</item>
+        <item>Ping Pong</item>
+        <item>Worek treningowy</item>
+        <item>Qi Gong</item>
+        <item>Marszobieg</item>
+        <item>Racquetball</item>
+        <item>Trening Wytrzymałościowy</item>
+        <item>Wspinaczka Skalna</item>
+        <item>Sporty Rodeo</item>
+        <item>Jazda Na Rolkach</item>
+        <item>Jazda Na Wrotkach</item>
+        <item>Skakanka</item>
+        <item>Skakanak Na Jednej Nodze</item>
+        <item>Rugby</item>
+        <item>Bieg</item>
+        <item>Nurkowanie</item>
+        <item>Skateboarding</item>
+        <item>Łyżwiarstwo</item>
+        <item>Jazda Na Nartach</item>
+        <item>Skoki spadochronowe</item>
+        <item>Saneczkarstwo</item>
+        <item>Ćwiczenia Na Macie</item>
+        <item>Nurkowanie z rurką</item>
+        <item>Rakiety Śnieżne</item>
+        <item>Piłka nożna</item>
+        <item>Softball</item>
+        <item>Squash</item>
+        <item>Aktywność Na Schodach</item>
+        <item>Stacjonarna Jazda Na Rowerze</item>
+        <item>Wioślarstwo Stacjonarne</item>
+        <item>Rozciąganie</item>
+        <item>Surfowanie</item>
+        <item>Pływanie</item>
+        <item>Tenis stołowy</item>
+        <item>Tai Chi</item>
+        <item>Tennis</item>
+        <item>Piłka terapeutyczna</item>
+        <item>Biegi i Boisko</item>
+        <item>Trampolina</item>
+        <item>Treningi telewizyjne</item>
+        <item>Unicycling</item>
+        <item>Gry</item>
+        <item>Siatkówka</item>
+        <item>Chodzenie</item>
+        <item>Wallyball</item>
+        <item>Aerobik wodny</item>
+        <item>Jogging wodny</item>
+        <item>Wodne Polo</item>
+        <item>Narciarstwo wodne</item>
+        <item>Siatkówka wodna</item>
+        <item>Spacer po wodzie</item>
+        <item>Whitewater Rafting</item>
+        <item>Windsurfing</item>
+        <item>Zapasy</item>
+        <item>Yoga</item>
+    </string-array>
+
+
+    <string-array name="gender_array">
+        <item>Mężczyzna</item>
+        <item>Kobieta</item>
+        <item>Inne</item>
+    </string-array>
+
+    <string-array name="gender_image_array">
+        <item>male_icon</item>
+        <item>female_icon</item>
+        <item>other_icon</item>
+    </string-array>
+
+    <string-array name="activity_array">
+        <item>Siedzący tryb życia</item>
+        <item>Mało Aktywny</item>
+        <item>Umiarkowanie Aktywny</item>
+        <item>Aktywny</item>
+        <item>Bardzo Aktywny</item>
+        <item>Ekstra Aktywny</item>
+    </string-array>
+    <string-array name="activity_description_array">
+        <item>Mało ruchu lub jego brak</item>
+        <item>Ćwiczenie 1–3 razy/tydzień</item>
+        <item>Ćwiczenie 4–5 razy/tydzień</item>
+        <item>Codzienne ćwiczenia lub intensywne ćwiczenia 3–4 razy/tydzień</item>
+        <item>Intensywne ćwiczenia 6–7 razy/tydzień</item>
+        <item>Codzienne bardzo intensywne ćwiczenia lub ciężka praca fizyczna</item>
+    </string-array>
+
+    <string-array name="progress_array">
+        <item>Szybki Przyrost Wagi</item>
+        <item>Przyrost Wagi</item>
+        <item>Łagodny Przyrost Wagi</item>
+        <item>Utrzymanie Wagi</item>
+        <item>Łagodny Spadek Wagi</item>
+        <item>Spadek Wagi</item>
+        <item>Ekstremalny Spadek Wagi</item>
+    </string-array>
+
+    <string-array name="progress_description_array">
+        <item>+1 kg/tydzień</item>
+        <item>+0.5 kg/tydzień</item>
+        <item>+0.25 kg/tydzień</item>
+        <item> 0 kg/tydzień</item>
+        <item>-0.25 kg/tydzień</item>
+        <item>-0.5 kg/tydzień</item>
+        <item>-1 kg/tydzień</item>
+    </string-array>
+
+
+    <string name="mon">PON</string>
+    <string name="tue">WTO</string>
+    <string name="wed">ŚRO</string>
+    <string name="thu">CZW</string>
+    <string name="fri">PIĄ</string>
+    <string name="sat">SOB</string>
+    <string name="sun">NIE</string>
+    <string name="new_weight">Nowa Waga</string>
+    <string name="new_exercise">Nowe Ćwiczenie</string>
+    <string name="exercise">Ćwiczenie</string>
+
+    <string name="add_food">DODAJ JEDZENIE</string>
+    <string name="water">Woda</string>
+
+    <string-array name="other_description_array">
+        <item>lekki wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="archery_description_array"><item>ogólny</item></string-array>
+    <string-array name="arm_ergometer_description_array"><item>ogólny</item></string-array>
+    <string-array name="badminton_description_array"><item>ogólny</item></string-array>
+    <string-array name="base_jumping_description_array"><item>ogólny</item></string-array>
+    <string-array name="baseball_description_array"><item>ogólny</item></string-array>
+    <string-array name="basketball_description_array"><item>ogólny</item></string-array>
+    <string-array name="beach_volleyball_description_array"><item>ogólny</item></string-array>
+    <string-array name="bicycling_description_array">
+        <item>ogólny</item>
+        <item>rekreacyjny &#60; 16 km/h</item>
+        <item>rekreacyjny 9 km/h</item>
+        <item>rekreacyjny 15 km/h</item>
+        <item>rekreacyjny 16–19 km/h</item>
+        <item>wyścigowy lub rekreacyjny 19–22 km/h</item>
+        <item>wyścigowy 22–25 km/h</item>
+        <item>wyścigowy 25–30 km/h</item>
+        <item>wyścigowy > 30 km/h</item>
+        <item>BMX</item>
+        <item>góry</item>
+    </string-array>
+    <string-array name="billiards_description_array"><item>ogólny</item></string-array>
+    <string-array name="bowling_description_array"><item>ogólny</item></string-array>
+    <string-array name="boxing_description_array"><item>ogólny</item></string-array>
+    <string-array name="broomball_description_array"><item>ogólny</item></string-array>
+    <string-array name="bungee_jumping_description_array"><item>ogólny</item></string-array>
+    <string-array name="calisthenics_description_array">
+        <item>lekki wysiłek</item>
+        <item>lekki do umiarkowany wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="canoeing_description_array">
+        <item>lekki wysiłek &#60; 6 km/h</item>
+        <item>umiarkowany wysiłek 7 – 10 km/h</item>
+        <item>intensywny wysiłek > 10 km/h</item>
+    </string-array>
+    <string-array name="circuit_training_description_array">
+        <item>lekki wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="climbing_hills_description_array">
+        <item>bez obiążenia</item>
+        <item>&#60; 5 kg obiążenie</item>
+        <item>5 – 9 kg obiążenie</item>
+        <item>10 – 19 kg obiążenie</item>
+        <item>> 19 kg obiążenie</item>
+    </string-array>
+    <string-array name="climbing_up_ladder_description_array"><item>ogólny</item></string-array>
+    <string-array name="cricket_description_array"><item>ogólny</item></string-array>
+    <string-array name="croquet_description_array"><item>ogólny</item></string-array>
+    <string-array name="curling_description_array"><item>ogólny</item></string-array>
+    <string-array name="darts_description_array"><item>ogólny</item></string-array>
+    <string-array name="dog_sledding_description_array"><item>ogólny</item></string-array>
+    <string-array name="elliptical_trainer_description_array"><item>ogólny</item></string-array>
+    <string-array name="fencing_description_array"><item>ogólny</item></string-array>
+    <string-array name="football_description_array"><item>ogólny</item></string-array>
+    <string-array name="frisbee_description_array"><item>ogólny</item></string-array>
+    <string-array name="golf_description_array"><item>ogólny</item></string-array>
+    <string-array name="gymnastics_description_array"><item>ogólny</item></string-array>
+    <string-array name="hacky_sack_description_array"><item>ogólny</item></string-array>
+    <string-array name="handball_description_array"><item>ogólny</item></string-array>
+    <string-array name="hang_gliding_description_array"><item>ogólny</item></string-array>
+    <string-array name="health_club_exercise_description_array"><item>ogólny</item></string-array>
+    <string-array name="high_ropes_course_description_array"><item>ogólny</item></string-array>
+    <string-array name="hiking_description_array"><item>ogólny</item></string-array>
+    <string-array name="hockey_description_array">
+        <item>na polu</item>
+        <item>na lodzie</item>
+    </string-array>
+    <string-array name="home_exercise_description_array"><item>ogólny</item></string-array>
+    <string-array name="horseback_riding_description_array"><item>ogólny</item></string-array>
+    <string-array name="horseshoe_pitching_description_array"><item>ogólny</item></string-array>
+    <string-array name="jet_skiing_description_array"><item>ogólny</item></string-array>
+    <string-array name="jogging_description_array"><item>ogólny</item></string-array>
+    <string-array name="juggling_description_array"><item>ogólny</item></string-array>
+    <string-array name="kickball_description_array"><item>ogólny</item></string-array>
+    <string-array name="lacrosse_description_array"><item>ogólny</item></string-array>
+    <string-array name="marching_description_array">
+        <item>powolne tempo</item>
+        <item>umiarkowane tempo</item>
+        <item>szybkie tempo</item>
+    </string-array>
+    <string-array name="martial_arts_description_array"><item>ogólny</item></string-array>
+    <string-array name="mountain_climbing_description_array"><item>ogólny</item></string-array>
+    <string-array name="nordic_walking_description_array">
+        <item>powolne tempo &#60; 6 km/h</item>
+        <item>umiarkowane tempo 6 – 7 km/h</item>
+        <item>szybkie tempo > 7 km/h</item>
+    </string-array>
+    <string-array name="orienteering_description_array"><item>ogólny</item></string-array>
+    <string-array name="paddle_boarding_description_array"><item>ogólny</item></string-array>
+    <string-array name="paddle_boat_description_array"><item>ogólny</item></string-array>
+    <string-array name="paddleball_description_array"><item>ogólny</item></string-array>
+    <string-array name="pilates_description_array"><item>ogólny</item></string-array>
+    <string-array name="ping_pong_description_array"><item>ogólny</item></string-array>
+    <string-array name="punching_bag_description_array"><item>ogólny</item></string-array>
+    <string-array name="qi_gong_description_array"><item>ogólny</item></string-array>
+    <string-array name="race_walking_description_array"><item>ogólny</item></string-array>
+    <string-array name="racquetball_description_array"><item>ogólny</item></string-array>
+    <string-array name="resistance_training_description_array"><item>ogólny</item></string-array>
+    <string-array name="rock_climbing_description_array">
+        <item>trudność niska do umiarkowanej</item>
+        <item>wysoki stopień trudności</item>
+    </string-array>
+    <string-array name="rodeo_sports_description_array">
+        <item>lekki wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="roller_description_array"><item>ogólny</item></string-array>
+    <string-array name="rollerblading_description_array">
+        <item>powolne tempo &#60; 14 km/h</item>
+        <item>powolne do umiarkowane tempo 14 – 18 km/h</item>
+        <item>umiarkowane tempo 18 – 24 km/h</item>
+        <item>szybkie tempo > 24 km/h</item>
+    </string-array>
+    <string-array name="rope_jumping_description_array">
+        <item>powolne tempo &#60; 100 skips/min</item>
+        <item>umiarkowane tempo 100–120 skips/min</item>
+        <item>szybkie tempo 120–160 skips/min</item>
+    </string-array>
+    <string-array name="rope_skipping_description_array"><item>ogólny</item></string-array>
+    <string-array name="rugby_description_array"><item>ogólny</item></string-array>
+    <string-array name="running_description_array">
+        <item>ogólny</item>
+        <item>6 km/h</item>
+        <item>7 km/h</item>
+        <item>8 km/h</item>
+        <item>9 km/h</item>
+        <item>10 km/h</item>
+        <item>11 km/h</item>
+        <item>12 km/h</item>
+        <item>13 km/h</item>
+        <item>14 km/h</item>
+        <item>15 km/h</item>
+        <item>16 km/h</item>
+        <item>17 km/h</item>
+        <item>18 km/h</item>
+        <item>19 km/h</item>
+        <item>20 km/h</item>
+        <item>21 km/h</item>
+        <item>22 km/h</item>
+        <item>23 km/h</item>
+        <item>schody</item>
+        <item>maraton</item>
+    </string-array>
+    <string-array name="scuba_diving_description_array"><item>ogólny</item></string-array>
+    <string-array name="skateboarding_description_array"><item>ogólny</item></string-array>
+    <string-array name="skating_description_array"><item>ogólny</item></string-array>
+    <string-array name="skiing_description_array">
+        <item>ogólny</item>
+        <item>lekki wysiłek &#60; 6 km/h</item>
+        <item>umiarkowany wysiłek 6–8 km/h</item>
+        <item>intensywny wysiłek 8–13 km/h</item>
+        <item>bardzo intensywny wysiłek >13 km/h</item>
+    </string-array>
+    <string-array name="skydiving_description_array"><item>ogólny</item></string-array>
+    <string-array name="sledding_description_array"><item>ogólny</item></string-array>
+    <string-array name="slide_board_description_array"><item>ogólny</item></string-array>
+    <string-array name="snorkeling_description_array"><item>ogólny</item></string-array>
+    <string-array name="snow_shoeing_description_array">
+        <item>lekki wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="soccer_description_array"><item>ogólny</item></string-array>
+    <string-array name="softball_description_array"><item>ogólny</item></string-array>
+    <string-array name="squash_description_array"><item>ogólny</item></string-array>
+    <string-array name="stair_activity_description_array">
+        <item>wchodzenie po schodach wolne tempo</item>
+        <item>wchodzenie po schodach umiarkowane tempo</item>
+        <item>wchodzenie po schodach szybkie tempo</item>
+        <item>schodzenie ogólny</item>
+    </string-array>
+    <string-array name="stationary_bicycling_description_array">
+        <item>ogólny</item>
+        <item>bardzo lekki do lekkiego wysiłku 30–50 watts</item>
+        <item>wysiłek lekki do umiarkowanego 51–89 watts</item>
+        <item>wysiłek umiarkowany do energicznego 90–100 watts</item>
+        <item>energiczny wysiłek 101–160 watts</item>
+        <item>energiczny wysiłek 161–200 watts</item>
+        <item>bardzo energiczny wysiłek 201–270 watts</item>
+    </string-array>
+    <string-array name="stationary_rowing_description_array">
+        <item>ogólny</item>
+        <item>lekki wysiłek 50 watts</item>
+        <item>umiarkowany wysiłek 100 watts</item>
+        <item>intensywny wysiłek 150 watts</item>
+        <item>bardzo intensywny wysiłek 200 watts</item>
+    </string-array>
+    <string-array name="stretching_description_array"><item>ogólny</item></string-array>
+    <string-array name="surfing_description_array"><item>ogólny</item></string-array>
+    <string-array name="swimming_description_array">
+        <item>styl grzbietowy</item>
+        <item>styl klasyczny</item>
+        <item>styl motylkowy</item>
+        <item>kraulem</item>
+        <item>boczny grzbiet</item>
+        <item>dreptanie po wodzie</item>
+    </string-array>
+    <string-array name="table_tennis_description_array"><item>ogólny</item></string-array>
+    <string-array name="tai_chi_description_array"><item>ogólny</item></string-array>
+    <string-array name="tennis_description_array"><item>ogólny</item></string-array>
+    <string-array name="therapeutic_ball_description_array"><item>ogólny</item></string-array>
+    <string-array name="track_and_field_description_array">
+        <item>rzut kulą</item>
+        <item>rzut dyskiem</item>
+        <item>rzut młotem</item>
+        <item>skok wzwyż</item>
+        <item>skok w dal</item>
+        <item>trójskok</item>
+        <item>rzut oszczepem</item>
+        <item>skok o tyczce</item>
+        <item>bieg z przeszkodami</item>
+        <item>biegi płotkarskie</item>
+    </string-array>
+    <string-array name="trampoline_description_array"><item>ogólny</item></string-array>
+    <string-array name="tv_exercise_workouts_description_array">
+        <item>lekki wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="unicycling_description_array"><item>ogólny</item></string-array>
+    <string-array name="video_game_description_array">
+        <item>lekki wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="volleyball_description_array"><item>ogólny</item></string-array>
+    <string-array name="walking_description_array">
+        <item>ogólny</item>
+        <item>1% - 5% stopień</item>
+        <item>6% - 15% stopień</item>
+    </string-array>
+    <string-array name="wallyball_description_array"><item>ogólny</item></string-array>
+    <string-array name="water_aerobics_description_array"><item>ogólny</item></string-array>
+    <string-array name="water_jogging_description_array"><item>ogólny</item></string-array>
+    <string-array name="water_polo_description_array"><item>ogólny</item></string-array>
+    <string-array name="water_skiing_description_array"><item>ogólny</item></string-array>
+    <string-array name="water_volleyball_description_array"><item>ogólny</item></string-array>
+    <string-array name="water_walking_description_array">
+        <item>lekki wysiłek</item>
+        <item>umiarkowany wysiłek</item>
+        <item>intensywny wysiłek</item>
+    </string-array>
+    <string-array name="whitewater_rafting_description_array"><item>ogólny</item></string-array>
+    <string-array name="windsurfing_description_array"><item>ogólny</item></string-array>
+    <string-array name="wrestling_description_array"><item>ogólny</item></string-array>
+    <string-array name="yoga_description_array"><item>ogólny</item></string-array>
+
+
+</resources>

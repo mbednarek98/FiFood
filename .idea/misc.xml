@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable-v24/backround_button.xml" value="0.5703125" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable-v24/bg_card_breakfast_five.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable-v24/component_red_round_drawable.xml" value="0.3484375" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/bg_card_breakfast_four.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/bg_card_breakfast_one.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/bg_card_breakfast_three.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/bg_card_breakfast_two.xml" value="0.3425641025641026" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/component_red_round_drawable.xml" value="0.5615384615384615" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/component_round_drawable.xml" value="0.35" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/component_round_drawable_blueish.xml" value="0.35" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/fg_blue_bar.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/fg_lightblue_bar.xml" value="0.35" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/drawable/fg_red_bar.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout-v28/change_one_double_dialog.xml" value="0.34057971014492755" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout-v28/change_one_int_dialog.xml" value="0.34057971014492755" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout-v28/change_spinner_dialog.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout-v28/fragment_get_started_second.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout-v28/spinner_text_layout.xml" value="0.32382246376811596" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_main.xml" value="0.2518518518518518" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_search_food.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_settings.xml" value="0.40134907251264756" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_sign_in.xml" value="0.32019927536231885" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_sign_up.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_splash.xml" value="0.1580547112462006" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_start.xml" value="0.3129528985507246" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/add_food_dialog.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/calendar_cell.xml" value="0.25" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/card_food_template.xml" value="0.4839357429718876" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/card_template.xml" value="0.33177083333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/change_email_dialog.xml" value="0.55" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/change_two_spinner_dialog.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/dish_card.xml" value="0.33" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/exercise_cell.xml" value="0.33" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/exercise_dialog.xml" value="0.39759036144578314" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/exercise_list_view_child.xml" value="0.2840909090909091" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/exercise_list_view_group.xml" value="0.5" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/exercise_type_cell.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/exercise_type_dialog.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/food_tile.xml" value="0.5" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.33" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_get_started_first.xml" value="0.24818840579710144" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_get_started_third.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_home.xml" value="0.33047210300429186" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_notifications.xml" value="0.33" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_search_food.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_search_my_food.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/left_title_component.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/list_database_food.xml" value="0.33697916666666666" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/list_view_group.xml" value="0.5296875" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/middle_title_component.xml" value="0.375" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/number_picker_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/progress_dialog.xml" value="0.32019927536231885" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/right_title_component.xml" value="0.18115942028985507" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/select_food_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/settings_list_view_child.xml" value="0.45108695652173914" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/settings_list_view_group.xml" value="0.45108695652173914" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/spinner_description_layout.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/spinner_image_layout.xml" value="0.3807291666666667" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/spinner_only_text_layout.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/spinner_text_layout.xml" value="0.33958333333333335" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/layout/water_dialog.xml" value="0.3338541666666667" />
+        <entry key="..\:/Users/Mati/AndroidStudioProjects/FitApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable-v24/backround_button.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable/bg_card_breakfast_one.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable/button_plus.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable/rounded_button.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable/selected_dot.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable/splash_activity_background.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable/tab_selector.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/drawable/white_rounded_button.xml" value="0.4203125" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout-v28/fragment_get_started_second.xml" value="0.346875" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout/activity_main.xml" value="0.4017210144927536" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout/card_template.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_get_started_first.xml" value="0.346875" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_get_started_third.xml" value="0.346875" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Str00cker/AndroidStudioProjects/FitApp/app/src/main/res/layout/fragment_notifications.xml" value="0.25407608695652173" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

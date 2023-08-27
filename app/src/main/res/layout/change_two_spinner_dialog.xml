@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/first_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:clipToPadding="false"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/dialog_two_spinner_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/padding"
+            android:paddingEnd="@dimen/padding"
+            android:text="@string/gender"
+            android:textSize="16sp" />
+
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/dialog_two_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/edit_text_drawable"
+            android:dropDownWidth="match_parent"
+            android:elevation="@dimen/edit_text_field_elevation"
+            android:ems="13"
+            android:minHeight="50dp"
+            android:outlineSpotShadowColor="@color/palette_light_blue"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:shadowColor="@color/palette_light_blue"
+            android:spinnerMode="dialog" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/first_layout"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:clipToPadding="false"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/dialog_two_spinner_second_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/padding"
+            android:paddingEnd="@dimen/padding"
+            android:text="@string/gender"
+            android:textSize="16sp" />
+
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/dialog_two_spinner_second"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/edit_text_drawable"
+            android:dropDownWidth="match_parent"
+            android:elevation="@dimen/edit_text_field_elevation"
+            android:ems="13"
+            android:minHeight="50dp"
+            android:outlineSpotShadowColor="@color/palette_light_blue"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:shadowColor="@color/palette_light_blue"
+            android:spinnerMode="dialog" />
+
+    </LinearLayout>
+
+</RelativeLayout>

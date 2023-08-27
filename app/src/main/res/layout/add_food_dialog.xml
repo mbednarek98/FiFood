@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/line_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:clipToPadding="false"
+        android:orientation="vertical"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/dialog_dish_name_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/padding"
+            android:paddingEnd="@dimen/padding"
+            android:text="@string/name"
+            android:textSize="16sp" />
+
+        <EditText
+            android:id="@+id/dialog_dish_name_edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autofillHints="180"
+            android:background="@drawable/edit_text_drawable"
+            android:elevation="5dp"
+            android:ems="13"
+            android:inputType="text"
+            android:outlineSpotShadowColor="@color/palette_light_blue"
+            android:padding="10dp"
+            android:shadowColor="@color/palette_light_blue"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/line_one"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:clipToPadding="false"
+        android:orientation="horizontal"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="0.5"
+            android:layout_marginStart="16dp"
+            >
+            <TextView
+            android:id="@+id/dialog_dish_type_of_diet_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/padding"
+            android:paddingEnd="@dimen/padding"
+            android:text="@string/type_of_diet"
+            android:textSize="16sp" />
+
+            <androidx.appcompat.widget.AppCompatSpinner
+                android:id="@+id/dialog_dish_type_of_diet_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/edit_text_drawable"
+                android:dropDownWidth="match_parent"
+                android:elevation="5dp"
+                android:ems="13"
+                android:minHeight="50dp"
+                android:outlineSpotShadowColor="@color/palette_light_blue"
+                android:padding="10dp"
+                android:shadowColor="@color/palette_light_blue"
+                android:spinnerMode="dialog"
+                android:entries="@array/food_type_of_diet"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:orientation="vertical"
+            android:layout_weight="0.5">
+            <TextView
+                android:id="@+id/dish_dialog_type_of_meal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:text="@string/type_of_meal"
+                android:textSize="16sp" />
+
+            <androidx.appcompat.widget.AppCompatSpinner
+                android:id="@+id/dialog_dish_type_of_meal_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/edit_text_drawable"
+                android:dropDownWidth="match_parent"
+                android:elevation="5dp"
+                android:ems="13"
+                android:minHeight="50dp"
+                android:outlineSpotShadowColor="@color/palette_light_blue"
+                android:padding="10dp"
+                android:shadowColor="@color/palette_light_blue"
+                android:spinnerMode="dialog"
+                android:entries="@array/dishes_name_array"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/line_two"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:clipToPadding="false"
+        android:orientation="horizontal"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="16dp"
+            android:layout_weight="0.5"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/dialog_dish_type_of_unit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:text="@string/type_of_units"
+                android:textSize="16sp" />
+
+            <androidx.appcompat.widget.AppCompatSpinner
+                android:id="@+id/dialog_dish_type_of_unit_spinner"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/edit_text_drawable"
+                android:dropDownWidth="match_parent"
+                android:elevation="5dp"
+                android:ems="5"
+                android:entries="@array/food_units"
+                android:minHeight="50dp"
+                android:outlineSpotShadowColor="@color/palette_light_blue"
+                android:padding="10dp"
+                android:shadowColor="@color/palette_light_blue"
+                android:spinnerMode="dialog" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="0.5"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/dish_dialog_kcal_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingStart="@dimen/padding"
+                android:paddingEnd="@dimen/padding"
+                android:text="@string/kcal_upper"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/dish_dialog_kcal_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:autofillHints="180"
+                android:background="@drawable/edit_text_drawable"
+                android:elevation="5dp"
+                android:ems="13"
+                android:inputType="number"
+                android:outlineSpotShadowColor="@color/palette_light_blue"
+                android:padding="10dp"
+                android:shadowColor="@color/palette_light_blue"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_four"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/line_three"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:clipToPadding="false"
+        android:orientation="horizontal"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="0.33"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/dialog_dish_carbs_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/carbs"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/dish_dialog_carbs_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:autofillHints="180"
+                android:background="@drawable/edit_text_drawable"
+                android:elevation="5dp"
+                android:ems="13"
+                android:inputType="numberDecimal"
+                android:outlineSpotShadowColor="@color/palette_light_blue"
+                android:padding="10dp"
+                android:shadowColor="@color/palette_light_blue"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+
+            android:layout_weight="0.33"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/dish_dialog_protein_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/protein"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/dish_dialog_protein_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:autofillHints="180"
+                android:background="@drawable/edit_text_drawable"
+                android:elevation="5dp"
+                android:ems="13"
+                android:inputType="numberDecimal"
+                android:outlineSpotShadowColor="@color/palette_light_blue"
+                android:padding="10dp"
+                android:shadowColor="@color/palette_light_blue"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_weight="0.33"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/dialog_dish_fat_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/fat"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/dish_dialog_fat_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:autofillHints="180"
+                android:background="@drawable/edit_text_drawable"
+                android:elevation="5dp"
+                android:ems="13"
+                android:inputType="numberDecimal"
+                android:outlineSpotShadowColor="@color/palette_light_blue"
+                android:padding="10dp"
+                android:shadowColor="@color/palette_light_blue"
+                android:textSize="22sp" />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

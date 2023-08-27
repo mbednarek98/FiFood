@@ -1,0 +1,31 @@
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="splash_screen_title_text_size">64sp</dimen>
+    <dimen name="edit_text_field_elevation">15dp</dimen>
+    <dimen name="small_edit_text_field_elevation">5dp</dimen>
+    <dimen name="start_screen_title_text_margin_top">20dp</dimen>
+    <dimen name="start_screen_image_margin_top">30dp</dimen>
+    <dimen name="lets_get_started_text_margin_top">25dp</dimen>
+    <dimen name="lets_get_started_text_size">25sp</dimen>
+    <dimen name="start_text_margin_start_end">20dp</dimen>
+    <dimen name="start_text_line_spacing">5dp</dimen>
+    <dimen name="start_text_marginTop">10dp</dimen>
+    <dimen name="start_title_text_size">40sp</dimen>
+    <dimen name="start_text_size">16sp</dimen>
+    <dimen name="btn_marginStartEnd">20dp</dimen>
+    <dimen name="intro_screen_sign_in_btn_marginTop">50dp</dimen>
+    <dimen name="btn_paddingTopBottom">8dp</dimen>
+    <dimen name="intro_screen_sign_up_btn_marginTop">15dp</dimen>
+    <dimen name="btn_text_size">18sp</dimen>
+    <dimen name="edit_text_size">22sp</dimen>
+    <dimen name="progress_dialog_content_padding">10dp</dimen>
+    <dimen name="progress_bar_size">50dp</dimen>
+    <dimen name="progress_text_marginStart">16dp</dimen>
+    <dimen name="progress_text_size">16sp</dimen>
+    <dimen name="spinner_image_size">24dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+</resources>
