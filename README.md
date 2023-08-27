@@ -7,14 +7,18 @@
 
 
 # FiFood
-![discord](https://dcbadge.vercel.app/api/shield/247463720337276929?style=flat)
+![discord](https://dcbadge.vercel.app/api/shield/247463720337276929?style=flat) [![bachelor](https://img.shields.io/badge/Documentation-5166f7)](https://docs.google.com/document/d/1pOr8m5UvdDbBV0_JewLmSZrR0xzMoToqC0WMZp-lUIg/edit?usp=sharing)
 
-Opis
+TODO
 
 ## Features
-
+TODO
 ## Screenshots
 <div align = "center">
+<picture>
+    <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/prelogin.jpg">
+    <img alt="logo" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/prelogin.jpg">
+  </picture>
   <picture>
     <source  height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/login.jpg">
     <img alt="logo" height="300px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/login.jpg">
@@ -55,3 +59,4 @@ Opis
 
 
 ## Credits
+TODO
