@@ -6,7 +6,10 @@
 </div>
 
 
-# FiFood
+<div align="center">
+<h1>FiFood</h1>
+</div>
+
 ![discord](https://dcbadge.vercel.app/api/shield/247463720337276929?style=flat) [![bachelor](https://img.shields.io/badge/Documentation-5166f7)](https://docs.google.com/document/d/1pOr8m5UvdDbBV0_JewLmSZrR0xzMoToqC0WMZp-lUIg/edit?usp=sharing)
 
 FiFood is more than just a mobile application. It is your personal health coach that guides you through your daily calorie intake and physical activity. Whether you want to lose weight, gain muscle, or maintain your current shape, our app can help you achieve your goals. FiFood is native app on Android mobile system, which is the most popular and widely available mobile system in the world and is suitable for people of any gender between 15 and 80 years old, who want to take care of their health and want a precise calculation of their daily calorie needs. 
