@@ -12,7 +12,12 @@
 TODO
 
 ## Features
-TODO
+- Firebase-based authentication with Facebook and Google integration
+- Personalized calorie and water intake goals based on user parameters and progress
+- Customizable number of meals per day with preselected or user-defined options
+- Comprehensive database of sports activities with calorie consumption rates (Based on [Compendium of Physical Activities](https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories))
+- Multilingual support for Polish and English languages
+- Automatic diet plan generation based on user preferences (**DISCONTINUED** - No more free plan for Heroku service)
 ## Screenshots
 <div align = "center">
 <picture>
