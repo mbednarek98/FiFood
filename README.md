@@ -64,4 +64,4 @@ TODO
 
 
 ## Credits
-TODO
+Thanks goes to these people: 
