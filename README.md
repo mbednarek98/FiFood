@@ -65,3 +65,5 @@ TODO
 
 ## Credits
 Thanks goes to these people: 
+- Co-author [Piotr Łachański](https://github.com/HotPepperoncino)
+- Authors of [Compendium of Physical Activities](https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories)
