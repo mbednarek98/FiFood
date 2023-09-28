@@ -9,15 +9,9 @@
 <h1>FiFood</h1>
 </div>
 
-<<<<<<< HEAD
-=======
-<div align="center">
-<h1>FiFood</h1>
-</div>
-
 <div align="center">
   
->>>>>>> d1df644d8a8a6118189c9f6d9215b2ed805293fd
+
 ![discord](https://dcbadge.vercel.app/api/shield/247463720337276929?style=flat) [![bachelor](https://img.shields.io/badge/Documentation-5166f7)](https://docs.google.com/document/d/1pOr8m5UvdDbBV0_JewLmSZrR0xzMoToqC0WMZp-lUIg/edit?usp=sharing)
 
 </div>
