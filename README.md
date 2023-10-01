@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" height="200px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/logo.jpg">
+    <source height="200px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/logo.jpg">
     <img alt="logo" height="200px" srcset="https://raw.githubusercontent.com/mbednarek98/FiFood/master/assets/logo.jpg">
   </picture>
 </div>
