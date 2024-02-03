@@ -10,7 +10,7 @@
 
 ![discord](https://dcbadge.vercel.app/api/shield/247463720337276929?style=flat) [![bachelor](https://img.shields.io/badge/Documentation-5166f7)](https://docs.google.com/document/d/1pOr8m5UvdDbBV0_JewLmSZrR0xzMoToqC0WMZp-lUIg/edit?usp=sharing)
 
-An Android native application designed for personal health coaching by managing calorie intake and physical activity. Utilizes precise algorithms for daily calorie needs calculation, targeting users of all ages across any gender
+An Android native application designed for personal health coaching by managing calorie intake and physical activity. Utilizes precise algorithms for daily calorie needs calculation, targeting users of all ages across any gender.
 </div>
 
 
